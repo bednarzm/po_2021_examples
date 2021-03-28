@@ -155,11 +155,6 @@ public class Demonstrator {
 		System.out.println("Total time for concatenation using StringBuilder: " + (after - before)/1000.0 + "s.");
 		//System.out.println("Result: " + result);
 		
-		
-		Thread.sleep(100000);
-		
-		
-		
 	}
 	
 	private static void check(String value) {
